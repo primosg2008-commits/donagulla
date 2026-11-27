@@ -9,7 +9,7 @@ Official website for Dona Gulla, a Brazilian bakery and takeaway at 4 Eyre Stree
 - `script.js` contains the menu filters, animations and WhatsApp ordering links.
 - Product photos, logo and local font files are stored in the repository root.
 
-Every change pushed to the `main` branch is automatically published by Vercel.
+The production website is live at [donagulla.vercel.app](https://donagulla.vercel.app/). Repository edits require a manual Vercel redeploy until the Vercel account is linked to this GitHub account.
 
 ## Contact
 
