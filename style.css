@@ -17,3 +17,4 @@ dialog{width:min(1100px,94vw);max-height:90vh;border:4px solid var(--wine);borde
 /* Calmer composition: fewer accents, more room for food photography. */
 .hero-bottom{display:flex;justify-content:center;gap:48px;margin:18px auto 0}.hero-bottom p{max-width:none;font-size:24px}.menu-heading:after{content:none}.photo-card{padding-bottom:9px}.intro-section{padding-bottom:65px}.menu-section{padding-top:65px}.menu-heading h2{margin-top:0}.visit-head h2{margin-top:0}.product .order-link{margin-top:12px;display:inline-block;font-size:20px}.final-cta .display{margin-top:0}
 @media(max-width:680px){.hero-bottom{flex-direction:column;gap:20px;text-align:center}.hero-bottom p{font-size:22px}.intro-section{padding-bottom:45px}.menu-section{padding-top:40px}.product .order-link{font-size:18px}.photo-card{padding-bottom:5px}}
+.intro-logo{width:min(280px,60vw);margin:48px auto 0}.intro-logo img{display:block;width:100%;height:auto;border-radius:50%}
